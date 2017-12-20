@@ -1,0 +1,18 @@
+body {
+  background:url("http://skipperkongen.dk/wp-content/uploads/2017/05/27340232-triangles-wallpapers.jpg");
+  background-repeat:no-repeat;
+  background-size:cover;
+  padding: 50px;
+  font: 20px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+button
+{
+    background-color:red;
+    border-radius:8px;
+    border: black;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+}
